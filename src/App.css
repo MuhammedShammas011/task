@@ -1,4 +1,13 @@
 .displayBody{
     background-color: blueviolet;
+    padding: 10px;
 }
+
+
+.card {
+    cursor: pointer;
+    border: 1px solid;
+}
+
+
 
