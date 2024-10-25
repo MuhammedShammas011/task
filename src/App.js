@@ -1,9 +1,10 @@
 import React from "react";
-import Counter from "./components/counter";
+import Fetch from "./components/Display";
 
 const App = () => {
   return <div className="App">
-    <Counter />
+    <Fetch />
+
   </div>;
 };
 
